@@ -13,6 +13,7 @@ The KiCAD project here uses the library/footprints [found in my companion repo](
 
 ## Width
 
+13hp on an Intellijel 1U rack.
 
 ## Inputs
 
@@ -21,7 +22,6 @@ Jack for gate/pulse input.
 Knobs for:
 * Pulse delay
 * Pulse width
-
 
 ## Outputs
 
@@ -38,5 +38,3 @@ There are part numbers in the [BOM](pulse-delay.csv) for many of the parts (not 
 * [Love My Switches](https://lovemyswitches.com/): Has [really good knobs](https://lovemyswitches.com/anodized-aluminum-knob-the-lo-fi-1-4-smooth-shaft-12-5mm-od/) to go on those potentiometers!
 * [OSHPark](https://oshpark.com/): Fast and (relatively) cheap PCB manufacturer. Prototype run pending.
 
-
-## Changelog
